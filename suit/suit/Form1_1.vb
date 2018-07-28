@@ -2,8 +2,7 @@
 
 
     Private Sub btnSubmit_Click(sender As Object, e As EventArgs) Handles btnSubmit.Click
-        'Not sure if I have to code anything for the txtboxes b/c not liked to data base  
-        'So I have some code showing what It would be if it was linked 
+        'some code showing what It would be if it was linked 
         'Dim strSQL As String
         'strSQL = "UPDATE tblInfo SET fldName = '" & Me.TextBox1.Text & "' WHERE fldFoo = somevalue"
         'DoCmd.RunSql strSQL
